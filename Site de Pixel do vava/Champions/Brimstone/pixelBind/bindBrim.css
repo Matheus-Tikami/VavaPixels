@@ -1,0 +1,64 @@
+body{
+    background-color:rgb(27, 18, 61);
+    background-image: url(fotoBrim.jpg);
+    background-repeat: no-repeat;
+    background-size:2000px 1500px;
+    background-attachment:fixed;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size:50px;
+    color:rgb(216, 77, 77)
+}
+.img{
+    width:500px; 
+    text-align: center;
+    margin-left: 20px;
+}
+
+.mapa{
+
+    display: flex;
+    align-items: center;
+    margin-left:300px;
+}
+
+.defensor{
+   color:rgb(85, 190, 91);
+   text-decoration: underline;
+   font-size: 40px;
+   text-align: center;
+}
+
+.atacante{
+    color: rgb(222, 52, 131);
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.descricao{
+    color:white;
+    word-wrap: break-word;
+    width:550px;
+    font-size: 30px;
+    margin-left: 18px;
+
+}
+
+table{
+    margin:auto;
+}
+
+.back {
+    color:rgb(53, 197, 233);
+    font-size: 30px;
+    border:solid ;
+    margin-top: 200px;
+    margin-top: 15px;
+    text-decoration:none;
+}
+

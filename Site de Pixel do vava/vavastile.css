@@ -1,0 +1,72 @@
+body{
+    background-color:rgb(44, 39, 79);
+}
+
+.caixa{
+    width: 940px;
+    margin: auto;
+}
+
+.img{
+    width:500px;
+    width: auto;
+}
+
+.centro{
+    margin: 0 0 0 10%;
+}
+
+header {
+    background-color: black;
+}
+
+nav {
+    position: absolute;
+    top: 70px;
+    right: 15%;
+    background-color: black;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0 0 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bolder;
+    color: white
+}
+
+nav a:hover {
+    color: #f30c0c;
+    text-decoration: underline;
+}
+.logo {
+    margin: 0 0% 0 10%;
+}
+
+.logo1 {
+    margin: 2% 3% 1% 8%;
+}
+.logo2{
+    width: 10%;
+    margin: 0 0 6% 0;
+}
+
+main h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    padding: 3% 0 2% 0;
+    color:rgb(216, 77, 77)
+}
+
+main h2{
+    text-align: center;
+    text-decoration:underline;
+    font-size: 30px;
+    padding: 3% 0 4% 0;
+    color: rgb(138, 138, 247);
+}
